@@ -1,6 +1,12 @@
-title: Minimal theme
+title: <p align="center">Atharv Ganla</p>
 logo: /assets/img/AtharvGanla - Profile Picture.jpeg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: 
+    <p align="center">
+    <a href="https://www.linkedin.com/in/atharv-ganla/">LinkedIn</a>
+    <a href="https://github.com/atharv2007">Github</a>
+    <br>
+    I am a Btech CSE 2022 graduate, currently seeking entry level job opportunities as a Python Developer, ML Engineer, Software Developer, Data Analyst, Data Scientist.
+    I have a total of 9-months of internship experience working in Python (Flask) and ML, mainly NLP.
+    </p>
+
 theme: jekyll-theme-minimal
