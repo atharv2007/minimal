@@ -1,6 +1,5 @@
 title: <p align="center"> Atharv Ganla </p>
 logo: /assets/img/dp.png
-
 description:
   <p align="center">
   <a href="assets/resume.pdf">Resume</a> |
@@ -12,5 +11,4 @@ description:
   I have a total of 9-months of internship experience working in Python (Flask) and ML, mainly NLP.
   <br>
   </p>
-
 theme: jekyll-theme-minimal
